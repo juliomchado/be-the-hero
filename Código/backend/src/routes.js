@@ -40,7 +40,7 @@ routes.get('/incidents', celebrate({
 
 routes.post('/incidents', celebrate({
     [Segments.HEADERS]: Joi.object({
-        authorization: Joi.string().required(),
+        authorization: Joi.string().required(), 
     }).unknown(),
     [Segments.BODY]: Joi.object().keys({
         title: Joi.string().required().min(5),
