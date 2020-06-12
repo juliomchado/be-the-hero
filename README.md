@@ -3,7 +3,7 @@
 
 ![61b75980-7097-11ea-8e56-c72cc2f088d7](https://user-images.githubusercontent.com/56945282/84451118-fcace200-ac49-11ea-84a5-7f26713a18fe.jpeg)
 
-## Tecnologias usadas: <br>
+## Tecnologias usadas <br>
 ### Backend: <br>
 * Node <br>
 * Express <br>
@@ -26,7 +26,7 @@
 * Material Icons <br>
 * Expo-mail-composer <br>
 
-# Como rodar o projeto ? 
+## Como rodar o projeto ? 
 
 - Inicie o backend
 1. Abra a pasta backend
