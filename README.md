@@ -28,27 +28,27 @@
 
 ## Como rodar o projeto ? 
 
-- Inicie o backend
-1. Abra a pasta backend
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Rode o comando yarn start OU npm start dev no terminal
+> ### Iniciar o backend
+> 1. Abra a pasta backend
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Rode o comando yarn start OU npm start dev no terminal
 
-- Inicie o frontend web 
-1. Abra a pasta frontend
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Rode o comando yarn start OU npm start no terminal
+> ### Iniciar o frontend web 
+> 1. Abra a pasta frontend
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Rode o comando yarn start OU npm start no terminal
 
-- Inicie o mobile
-#### Com Smartphone: 
-1. Abra a pasta mobile
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Instale o Expo em seu celular 
-4. Rode yarn start, npm start OU expo start no terminal
-5. Leita o código de barras da página aberta com o app do expo no seu celular
-
-#### Com Emulador: 
-1. Abra a pasta mobile
-2. Rode npm install/npm i no terminal para baixar as dependências
-3. Abra o seu simulador (Android OU iOS)
-4. Rode expo start no terminal
-5. Clique em Run Android device/Run iOS simulator no link do expo aberto
+> ### Iniciar o mobile
+> #### Com Smartphone: 
+> 1. Abra a pasta mobile
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Instale o Expo em seu celular 
+> 4. Rode yarn start, npm start OU expo start no terminal
+> 5. Leita o código de barras da página aberta com o app do expo no seu celular
+>
+> #### Com Emulador: 
+> 1. Abra a pasta mobile
+> 2. Rode npm install/npm i no terminal para baixar as dependências
+> 3. Abra o seu simulador (Android OU iOS)
+> 4. Rode expo start no terminal
+> 5. Clique em Run Android device/Run iOS simulator no link do expo aberto
