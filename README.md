@@ -29,25 +29,25 @@
 
 ## How to run project / Como rodar o projeto ? 
 
-> ### Start the backend / Iniciar o backend
+ ### Start the backend / Iniciar o backend
 > 1. Open backend file / Abra a pasta backend
 > 2. Run npm install or yarn in the therminal for download dependences / Rode npm install no terminal para baixar as dependências
 > 3. Run the command yarn start or npm start dev in therminal / Rode o comando yarn start OU npm start dev no terminal
 
-> ### Start the frontend / Iniciar o frontend web 
+### Start the frontend / Iniciar o frontend web 
 > 1. Open frontend file / Abra a pasta frontend
 > 2. Run npm install or yarn in the therminal for download dependences / Rode npm install no terminal para baixar as dependências
 > 3. Run the command yarn start or npm start dev in therminal / Rode o comando yarn start OU npm start no terminal
 
-> ### Start the mobile / Iniciar o mobile
-> #### With Smartphone / Com Smartphone: 
+ ### Start the mobile / Iniciar o mobile
+ #### With Smartphone / Com Smartphone: 
 > 1. Open mobile file / Abra a pasta mobile
 > 2. Run npm install or yarn in the therminal for download dependences / Rode npm install no terminal para baixar as dependências
 > 3. Install the Expo app in your smartphone / Instale o Expo em seu celular 
 > 4. Run the command yarn start or npm start dev in therminal / Rode yarn start, npm start OU expo start no terminal
 > 5. Read the qrcode in the webpage opened with expo app in your smartphone / Leia o código de barras da página aberta com o app do expo no seu celular
 >
-> #### With emulator /Com Emulador: 
+ #### With emulator / Com Emulador: 
 > 1. Open the mobile file / Abra a pasta mobile
 > 2. Run npm install or yarn in the therminal for download dependences / Rode npm install no terminal para baixar as dependências
 > 3. Open your emulator (Android or iOS) / Abra o seu simulador (Android OU iOS)
